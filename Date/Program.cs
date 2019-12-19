@@ -9,7 +9,9 @@ namespace Date
             
             Console.WriteLine("Horas a serem acrescentadas:");
             Console.WriteLine("Boa noite");
+            Console.WriteLine("Como você está hoje?");
             Console.WriteLine();
+
            
 
           
